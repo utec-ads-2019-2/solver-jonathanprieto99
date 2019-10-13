@@ -21,7 +21,7 @@ class Tree {
         Tree() : root(nullptr){};
 
         double Resolver(const string& operacion){
-            cout<<operacion<<endl;
+            cout<<"Operacion: "<<operacion<<endl;
             posfix(operacion);
             input_variables();
             Gen_tree();

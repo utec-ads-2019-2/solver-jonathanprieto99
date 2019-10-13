@@ -66,6 +66,9 @@ private:
     }
 
     double evaluar(Node* root, vector<double> &resultados){
+
+        //Excepciones
+
         if (!root) {
             resultados.push_back(0);
             return 0;
@@ -107,7 +110,6 @@ private:
         }
     }
 
-    //Importante se ejecutan las operaciones
     double evaluar2(Node* root){
 
         vector<double> resultados1;
