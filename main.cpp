@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
     Tree<string> tree;
-    auto resultado=tree.Resolver("7/4*((3+1)*a)+            a))))))))))");
+    auto resultado=tree.Resolver("6*5+(4+2)^a");
     cout<<"Resultado: "<<resultado<<endl;
     return 0;
 }
