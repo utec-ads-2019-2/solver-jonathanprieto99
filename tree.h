@@ -37,8 +37,9 @@ class Tree {
 
         static bool not_operator(char x){
             if (x != '+' and x != '-' and x != '/' and x != '*' and x != '^' and x != '(' and x != ')'){
-                return (true);
+                return true;
             }
+            return false;
         }
 
         static bool parentesis(const string& x){
