@@ -6,4 +6,4 @@ set(CMAKE_CXX_FLAGS -pthread)
 
 
 
-add_executable(solver-jonathanprieto99 main.cpp)
+add_executable(solver-jonathanprieto99 node.h tree.h main.cpp)

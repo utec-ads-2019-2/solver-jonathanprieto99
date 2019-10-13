@@ -83,6 +83,12 @@
 		<Unit filename="/Users/jonathanprieto/Documents/GitHub/solver-jonathanprieto99/main.cpp">
 			<Option target="solver-jonathanprieto99"/>
 		</Unit>
+		<Unit filename="/Users/jonathanprieto/Documents/GitHub/solver-jonathanprieto99/node.h">
+			<Option target="solver-jonathanprieto99"/>
+		</Unit>
+		<Unit filename="/Users/jonathanprieto/Documents/GitHub/solver-jonathanprieto99/tree.h">
+			<Option target="solver-jonathanprieto99"/>
+		</Unit>
 		<Unit filename="/Users/jonathanprieto/Documents/GitHub/solver-jonathanprieto99/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
